@@ -1,0 +1,36 @@
+# Environment files containing secrets
+.env
+.env.*
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+my_ai_env/
+.envvenv/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.sqlite3
+
+# Secret files
+*.pem
+*.key
+*.crt
+*.credentials
+*.secret
